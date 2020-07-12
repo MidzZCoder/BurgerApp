@@ -2,7 +2,7 @@
 
 Eat-Da-Burger is a full-stack web application that lets user create their own burgers and devour it. 
 
-Check out the live app by [clicking here]().
+Check out the live app by [clicking here](https://midz-burgerapp.herokuapp.com/).
 
 $$ Landing Page
 
