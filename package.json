@@ -1,0 +1,29 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "This full stack app lets you create a burger to your menu and then devour it.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MidzZCoder/BurgerApp.git"
+  },
+  "keywords": [
+    "Burgerapp"
+  ],
+  "author": "Midz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MidzZCoder/BurgerApp/issues"
+  },
+  "homepage": "https://github.com/MidzZCoder/BurgerApp#readme"
+}
